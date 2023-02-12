@@ -1,0 +1,21 @@
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\bin\Release\net6.0-windows\LEND MASTER.exe
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\bin\Release\net6.0-windows\LEND MASTER.deps.json
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\bin\Release\net6.0-windows\LEND MASTER.runtimeconfig.json
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\bin\Release\net6.0-windows\LEND MASTER.dll
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\bin\Release\net6.0-windows\LEND MASTER.pdb
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND MASTER.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND_MASTER.Form1.resources
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND_MASTER.Form2.resources
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND_MASTER.Form3.resources
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND_MASTER.Form4.resources
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND_MASTER.Resources.resources
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND MASTER.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND MASTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND MASTER.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND MASTER.AssemblyInfo.vb
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND MASTER.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND MASTER.dll
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\refint\LEND MASTER.dll
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND MASTER.pdb
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\LEND MASTER.genruntimeconfig.cache
+C:\Users\Admin\source\repos\LEND MASTER\LEND MASTER\obj\Release\net6.0-windows\ref\LEND MASTER.dll
